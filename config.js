@@ -23,14 +23,14 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: '91e2dc7636f95acddb41f5b7e93b8b8d',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '48.856613',
+  defaultLongitude: '2.352222',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -40,9 +40,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Ensai',
+      icon: 'book',
+      link: 'https://ent.ensai.fr/uPortal/f/welcome/normal/render.uP',
     },
     {
       id: '2',
@@ -52,15 +52,15 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Twitch',
-      icon: 'twitch',
-      link: 'https://www.twitch.tv/',
-    },
-    {
-      id: '4',
       name: 'Calendar',
       icon: 'calendar',
       link: 'https://calendar.google.com/calendar/r',
+    },
+    {
+      id: '4',
+      name: 'Twitch',
+      icon: 'twitch',
+      link: 'https://www.twitch.tv/',
     },
     {
       id: '5',
@@ -106,8 +106,8 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Outlook',
+        link: 'https://outlook.office.com/mail/inbox',
       },
       {
         name: 'Figma',
@@ -118,8 +118,8 @@ const CONFIG = {
         link: 'https://dribbble.com',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Reddit',
+        link: 'https://www.reddit.com/',
       },
     ],
   },
