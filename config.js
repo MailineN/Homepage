@@ -110,8 +110,8 @@ const CONFIG = {
         link: 'https://outlook.office.com/mail/inbox',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Google Drive',
+        link: 'https://drive.google.com/drive/u/0/my-drive',
       },
       {
         name: 'Dribbble',
