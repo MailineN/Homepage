@@ -110,17 +110,18 @@ const CONFIG = {
         link: 'https://outlook.office.com/mail/inbox',
       },
       {
-        name: 'Google Drive',
+        name: 'Drive',
         link: 'https://drive.google.com/drive/u/0/my-drive',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
       },
       {
         name: 'Reddit',
         link: 'https://www.reddit.com/',
       },
+      {
+        name: 'Vinted',
+        link: 'https://www.vinted.fr/',
+      },
+      
     ],
   },
 };
