@@ -40,9 +40,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Ensai',
+      name: 'Notion',
       icon: 'book',
-      link: 'https://ent.ensai.fr/uPortal/f/welcome/normal/render.uP',
+      link: 'https://www.notion.so/',
     },
     {
       id: '2',
