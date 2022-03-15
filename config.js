@@ -107,7 +107,7 @@ const CONFIG = {
     secondList: [
       {
         name: 'Outlook',
-        link: 'https://outlook.office.com/mail/inbox',
+        link: 'https://mail.insee.net/owa/',
       },
       {
         name: 'Drive',
