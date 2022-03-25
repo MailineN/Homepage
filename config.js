@@ -118,8 +118,8 @@ const CONFIG = {
         link: 'https://www.reddit.com/',
       },
       {
-        name: 'Vinted',
-        link: 'https://www.vinted.fr/',
+        name: 'Github',
+        link: 'https://github.com/',
       },
       
     ],
